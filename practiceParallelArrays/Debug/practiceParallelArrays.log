@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  practiceParallelArrays.cpp
+c:\users\rapha\documents\visual studio 2015\projects\practiceparallelarrays\practiceparallelarrays.cpp(15): error C2143: syntax error: missing ';' before 'return'
+c:\users\rapha\documents\visual studio 2015\projects\practiceparallelarrays\practiceparallelarrays.cpp(15): error C2734: 'num_Emply': 'const' object must be initialized if not 'extern'
